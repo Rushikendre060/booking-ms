@@ -13,7 +13,7 @@
 	<version>v1.1</version>
 	<name>booking-ms</name>
 	<description>Demo project for Spring Boot</description>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<url/>
 	<licenses>
 		<license/>
