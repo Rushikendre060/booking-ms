@@ -8,6 +8,6 @@ public class Flight {
     @GetMapping("/Flight")
 
     public String getdata() {
-        return "flight ticket are at 35% discount ";
+        return "flight ticket are at 45% discount ";
     }
 }
