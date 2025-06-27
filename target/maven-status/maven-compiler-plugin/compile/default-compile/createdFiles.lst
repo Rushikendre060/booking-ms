@@ -1,4 +1,5 @@
 com\example\booking_ms\BookingMsApplication.class
 com\example\booking_ms\Railway.class
+com\example\booking_ms\Visa.class
 com\example\booking_ms\Hotel.class
 com\example\booking_ms\Flight.class
