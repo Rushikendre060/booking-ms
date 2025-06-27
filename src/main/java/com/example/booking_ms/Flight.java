@@ -9,7 +9,7 @@ public class Flight {
 
     public String getdata() {
 
-        return "flight ticket are at 75% discount ";
+        return "flight ticket are at @25% discount ";
 
     }
 }
