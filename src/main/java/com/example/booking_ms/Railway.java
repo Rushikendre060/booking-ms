@@ -6,5 +6,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Railway {
     @GetMapping ("/Railway")
-    public String getdata() { return "Railway tickits are at 30% discount ";}
+    public String getdata() { return "Railway tickits from irctc @ 30% discount ";}
 }
