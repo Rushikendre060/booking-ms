@@ -12,7 +12,7 @@ public class Flight {
     }
 
     @GetMapping("/IndigoFlight")
-    public String getdata() {
+    public String putdata() {
         return "Indigo flight ticket are at @66% discount ";
     }
 }
